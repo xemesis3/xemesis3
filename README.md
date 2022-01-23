@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xemesis3
 - 👀 I’m interested in CODING & Making Things easier in life.
-- 🌱 I’m currently learning Python , Go.
+- 🌱 I’m currently learning DSA. Languages: Python ,CPP, Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - xemesis3.0@protonmail.com
 
